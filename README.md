@@ -1,2 +1,2 @@
 # password-chacker
-check your password! Was ir hacked before or not!
+check your password! Was it hacked before or not!
